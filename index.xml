@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cs224-dev-blog</title>
+    <link>http://cs224.github.io/</link>
+    <description>Recent content on cs224-dev-blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 23 Jul 2019 10:34:04 +0200</lastBuildDate>
+    
+	<atom:link href="http://cs224.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://cs224.github.io/posts/welcome.html</link>
+      <pubDate>Tue, 23 Jul 2019 10:34:04 +0200</pubDate>
+      
+      <guid>http://cs224.github.io/posts/welcome.html</guid>
+      <description>Welcome to the cs224-dev-blog Welcome to the cs224-dev-blog.</description>
+    </item>
+    
+  </channel>
+</rss>
